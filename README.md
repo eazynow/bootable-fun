@@ -1,11 +1,11 @@
 # Overview
-This is just some test asm files to try out booting off them.
+This is just some test files to try out booting off them.
 
 You require a virtual machine to boot these images.
 
 ## Setup
 1. install virtualbox
-2. install nasm
+2. for asm demos, install nasm
 
 ## Building an image from an assembly file
 1. First assemble the image using nasm:
